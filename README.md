@@ -19,5 +19,6 @@ A beginner-friendly C project that manages student attendance with features like
 ## 🚀 Live Login Link
 Click here to open the project interface:
 
-👉 🔗 **Live Demo:https://github.com/25A31A4312/StudentAttendanceManager/login.html
+👉 🔗 **Live Demo: https://25A31A4312.github.io/StudentAttendanceManager/login.html
+
 
