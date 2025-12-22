@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Student Login</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="login-box">
+
+<img src="Pragati_Engineering_College_logo.JPEG" class="logo">
+
+<h2>Pragati Engineering College</h2>
+<h3>Student Attendance Manager</h3>
+
+<input type="text" placeholder="Enter Roll Number">
+
+<div class="password-box">
+  <input type="password" id="pass" placeholder="Enter Password">
+  <span onclick="togglePassword()">👁️</span>
+</div>
+
+
+<a class="btn" href="home.html">Login</a>
+</div>
+
+<script>
+function togglePassword(){
+ let p = document.getElementById("pass");
+ p.type = (p.type === "password") ? "text" : "password";
+}
+</script>
+
+</body>
+
+</html>
