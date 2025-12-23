@@ -12,10 +12,12 @@ int main(){
         "25A31A4322 - N.Krishnaveni",
         "25A31A4310 - G.Jaya Sree",
         "25A31A4304 - B.Maghana",
-        "25A31A4309 - G.Pavani"
+        "25A31A4309 - G.Pavani",
+        "25A31A4337 - A.Manikanta",
+        "25A31A4340 - P.Ganesh manideepak",
     };
 
-    int attendance[10] = {85,78,92,63,58,71,48,67,80,43};
+    int attendance[10] = {85,78,92,63,58,71,48,67,80,43,70,80};
 
     printf("STUDENT ATTENDANCE REPORT\n");
     printf("------------------------------------\n");
